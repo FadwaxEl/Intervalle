@@ -1,0 +1,5 @@
+﻿  Intervalle_fermer.cpp
+  intervalle.cpp
+  Génération de code en cours...
+C:\Users\admin\Desktop\Intervalle_fermer\Intervalle_fermer\intervalle.cpp(94): warning C4715: 'INterv::Intervalle::operator+' : les chemins de contrôle ne retournent pas tous une valeur
+  Intervalle_fermer.vcxproj -> C:\Users\admin\Desktop\Intervalle_fermer\Intervalle_fermer\Debug\Intervalle_fermer.exe
